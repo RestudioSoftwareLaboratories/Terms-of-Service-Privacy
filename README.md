@@ -1,3 +1,3 @@
 Links
 
-- Website: https://restudio-games.github.io/Terms-of-Service-Privacy/
+- Website: https://restudiosoftwarelaboratories.github.io/Terms-of-Service-Privacy/
